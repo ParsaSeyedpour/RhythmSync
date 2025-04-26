@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment settings
+.env
+
+# Ignore data files (optional if you want to keep taps private)
+data/
